@@ -1,6 +1,4 @@
-# TaskLW8
-
-Summer 2021 - Task 8
+# Number Plate Detection app
 
 Project description 📄
 
